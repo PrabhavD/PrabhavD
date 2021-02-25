@@ -36,11 +36,11 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor);
-- 🌱 I’m currently learning Kubernetes and Continuous Integration(CircleCI); 
+- 🌱 I’m currently learning Kubernetes and GraphQL.
 - 👯 I’m looking to collaborate on [COVID 19 Voice Contact Tracing](https://github.com/PrabhavD/COVID19-Voice-Contact-Tracing) 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything. If I can't help, we can both learn something new 😉!;
-- ⚡️ Fun-Fact:  
+- ⚡️ Fun-Fact:
 
 **Languages and Tools:** 
 
@@ -73,7 +73,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrabhavD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PrabhavD&layout=compact&langs_count=8&theme=algolia"/>

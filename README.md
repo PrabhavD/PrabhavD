@@ -1,9 +1,7 @@
-### Hi there 👋
-
 <!--
 **PrabhavD/PrabhavD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Hi, I'm Prabhav Desai, an aspiring Software/ML developer 🚀 from Canada.
+### Hi, I'm Prabhav Desai 👋
 
 I am an aspiring software/ML Developer 🚀 who is currently attending the University of Waterloo for Computer Engineering. My key interests are Fullstack development, Big Data and Deep Learning. Feel free to contact me if you are interested in any of my projects, or even just to chat up about the latest in the tech world.
 

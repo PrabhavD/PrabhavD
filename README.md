@@ -3,21 +3,9 @@
 <!--
 **PrabhavD/PrabhavD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!-- Your title -->
 ## Hi, I'm Prabhav Desai, an aspiring Software/ML developer 🚀 from Canada.
+
+I am an aspiring software/ML Developer 🚀 who is currently attending the University of Waterloo for Computer Engineering. My key interests are Fullstack development, Big Data and Deep Learning. Feel free to contact me if you are interested in any of my projects, or even just to chat up about the latest in the tech world.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -38,9 +26,10 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽‍💻 I’m currently working on [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor);
 - 🌱 I’m currently learning Kubernetes and GraphQL.
 - 👯 I’m looking to collaborate on [COVID 19 Voice Contact Tracing](https://github.com/PrabhavD/COVID19-Voice-Contact-Tracing) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything. If I can't help, we can both learn something new 😉!;
-- ⚡️ Fun-Fact:
+- 👔 Work Status: Seeking Full-time Internship for Summer 2021
+- 😄 Pronouns: He/his
+- ⚡️ Fun-Fact: 
 
 ### 🛠 &nbsp;Tech Stack  
 <!-- Your languages and tools. Be careful with the alignment. 

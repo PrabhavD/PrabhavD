@@ -26,7 +26,6 @@ You can use the website to generate badges: https://shields.io/
 - 💬 Ask me about anything. If I can't help, we can both learn something new 😉!;
 - 👔 Work Status: Seeking Full-time Internship for Summer 2021
 - 😄 Pronouns: He/his
-- ⚡️ Fun-Fact: 
 
 ### 🛠 &nbsp;Tech Stack  
 <!-- Your languages and tools. Be careful with the alignment. 

@@ -10,7 +10,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 [![Github](https://img.shields.io/badge/-PrabhavD-000?style=flat&logo=Github&logoColor=white)](https://github.com/PrabhavD)
-[![Linkedin](https://img.shields.io/badge/-PrabhavDesai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prabhav-desai)
+[![Linkedin](https://img.shields.io/badge/-Prabhav_Desai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prabhav-desai)
 [![Gmail Badge](https://img.shields.io/badge/-prabhav.g.desai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prabhav.g.desai@gmail.com)](mailto:prabhav.g.desai@gmail.com)
 &nbsp;
 

@@ -3,7 +3,7 @@
 -->
 ### 👋 &nbsp;Hey there! I'm Prabhav.
 
-I am an aspiring software/ML Developer 🚀 who is currently attending the University of Waterloo for Computer Engineering. My key interests are Fullstack development, Big Data and Deep Learning. Feel free to contact me if you are interested in any of my projects, or even just to chat up about the latest in the tech world.
+I am an aspiring software/ML Developer 🚀 who is currently attending the University of Waterloo for Computer Engineering. My key interests are fullstack development, Big Data and Deep Learning. Feel free to contact me if you are interested in any of my projects, or even just to chat up about the latest in the tech world.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -50,7 +50,7 @@ You can use the website to generate badges: https://shields.io/
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/PrabhavD">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrabhavD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>

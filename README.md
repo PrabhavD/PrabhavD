@@ -53,7 +53,7 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://github.com/PrabhavD">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PrabhavD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-</p>
+</p> 
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me

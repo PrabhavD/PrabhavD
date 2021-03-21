@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning Kubernetes and MySQL.
 - 👯 I’m looking to collaborate on [COVID 19 Voice Contact Tracing](https://github.com/PrabhavD/COVID19-Voice-Contact-Tracing) 🤝;
 - 💬 Ask me about anything. If I can't help, we can both learn something new 😉!;
-- 👔 Work Status: Seeking Full-time Internship for Summer 2021
+- 👔 Work Status: Incomimg Software Developer @ Year Zero Studios for Spring 2021
 
 ### 🛠 &nbsp;Tech Stack  
 <!-- Your languages and tools. Be careful with the alignment. 

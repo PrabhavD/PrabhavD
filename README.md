@@ -54,12 +54,6 @@ You can use the website to generate badges: https://shields.io/
 </a>
 </p> 
 
-<p align="right">
-<a href="https://github.com/PrabhavD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhavD&layout=compact"/>
-</a>
-</p> 
-
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great

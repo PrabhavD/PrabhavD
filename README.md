@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Number Plate Detector](https://github.com/PrabhavD/Number_Plate_Detector);
+- 👨🏽‍💻 I’m currently working on [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor);
 - 🌱 I’m currently learning Kubernetes and MySQL.
 - 👯 I’m looking to collaborate on [COVID 19 Voice Contact Tracing](https://github.com/PrabhavD/COVID19-Voice-Contact-Tracing) 🤝;
 - 💬 Ask me about anything. If I can't help, we can both learn something new 😉!;

@@ -3,7 +3,7 @@
 -->
 ### 👋 &nbsp;Hey there! I'm Prabhav.
 
-I am an amateur software/ML developer 🚀 who is currently attending the University of Waterloo for Computer Engineering. My key interests are fullstack development, Big Data and Deep Learning. Feel free to contact me if you are interested in any of my projects, or even just to chat up about the latest in the tech world.
+I am software developer 🚀 who is currently attending the University of Waterloo for Computer Engineering. My key interests are fullstack development, Big Data and Deep Learning. Feel free to contact me if you are interested in any of my projects, or even just to chat up about the latest in the tech world.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/

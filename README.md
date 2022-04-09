@@ -43,7 +43,7 @@ You can use the website to generate badges: https://shields.io/
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)&nbsp;
-  <!--![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)&nbsp;-->
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)&nbsp;
 
 <!--### ⚙️ &nbsp;GitHub Analytics
 

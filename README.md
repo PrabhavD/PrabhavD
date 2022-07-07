@@ -23,8 +23,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
 - 🌱 I’m currently learning Go, Docker and MySQL.
 <!-- - 👯 I’m looking to collaborate on [COVID 19 Voice Contact Tracing](https://github.com/PrabhavD/COVID19-Voice-Contact-Tracing) 🤝; -->
-- 💬 Ask me about anything. If I can't help, we can both learn something new 😉!;
-- 👔 Work Status: Seeking Fall 2022 Internships
+- 💬 Ask me about anything. If I can't help, we can both learn something new!
+- 👔 Work Status: Seeking Summer 2023 Internships
 
 ### 🛠 &nbsp;Tech Stack  
 <!-- Your languages and tools. Be careful with the alignment. 

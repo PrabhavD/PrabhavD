@@ -3,7 +3,7 @@
 -->
 ### 👋 &nbsp;Hey there! I'm Prabhav.
 
-I am software developer who is currently attending the University of Waterloo for Computer Engineering. My key interests are fullstack development, Big Data and Deep Learning. Feel free to contact me if you are interested in any of my projects, or even just to chat up about the latest in the tech world.
+I am software developer who is currently attending the University of Waterloo for Computer Engineering. Feel free to contact me if you are interested in any of my projects, or even just to chat up about the latest in the tech world.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -20,9 +20,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor);
+<!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
 - 🌱 I’m currently learning Go, Docker and MySQL.
-- 👯 I’m looking to collaborate on [COVID 19 Voice Contact Tracing](https://github.com/PrabhavD/COVID19-Voice-Contact-Tracing) 🤝;
+<!-- - 👯 I’m looking to collaborate on [COVID 19 Voice Contact Tracing](https://github.com/PrabhavD/COVID19-Voice-Contact-Tracing) 🤝; -->
 - 💬 Ask me about anything. If I can't help, we can both learn something new 😉!;
 - 👔 Work Status: Seeking Fall 2022 Internships
 

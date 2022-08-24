@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 ### 👨🏻‍💻 &nbsp;About Me
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
 - 🌱 I’m currently learning Go, Docker and MySQL.
@@ -58,7 +58,7 @@ You can use the website to generate badges: https://shields.io/
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-<p align="center">
+<p align="left">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/PrabhavD/PrabhavD.svg" />
 </p>
 

@@ -28,7 +28,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 <!-- Talking about you -->
-### 👨🏻‍💻 &nbsp;About Me
+### 🛠 &nbsp;Past Experiences
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />

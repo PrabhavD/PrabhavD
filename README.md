@@ -21,8 +21,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
-- 🌱 I’m currently learning Go, Docker and MySQL.
-- 👔 Incoming Software Engineering Intern @ Morgan Stanley
+- 👔 Software Engineering Intern @ Morgan Stanley
+- 🌱 I’m currently learning OOP/OOD principles and Go
 - 💬 Ask me about anything. If I can't help, we can both learn something new!
 
 
@@ -31,8 +31,8 @@ You can use the website to generate badges: https://shields.io/
 ### 🛠 &nbsp;Past Experiences
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
-- Software Engineering Intern @ PlaceHolder Inc.
-- Software Developer Intern @ Year Zero Studios
+- Software Engineering Intern @ PlaceHolder Inc. (Jan 2022 -> Apr 2022)
+- Software Developer Intern @ Year Zero Studios (May 2021 -> August 2021)
 <!-- ### 🛠 &nbsp;Tech Stack  -->
 <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://shields.io/

@@ -3,7 +3,7 @@
 -->
 ### 👋 &nbsp;Hey there! I'm Prabhav.
 
-I am software developer who is currently attending the University of Waterloo for Computer Engineering. Feel free to contact me if you are interested in any of my projects, or even just to chat up about the latest in the tech world.
+I am Computer Engineering student at the University of Waterloo for Computer Engineering interested in the field of software currently seeking Summer 2023 internship opportunities. Feel free to reach out!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -22,14 +22,14 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
 - 🌱 I’m currently learning Go, Docker and MySQL.
-<!-- - 👯 I’m looking to collaborate on [COVID 19 Voice Contact Tracing](https://github.com/PrabhavD/COVID19-Voice-Contact-Tracing) 🤝; -->
 - 💬 Ask me about anything. If I can't help, we can both learn something new!
 - 👔 Work Status: Seeking Summer 2023 Internships
 
-### 🛠 &nbsp;Tech Stack  
+<!-- ### 🛠 &nbsp;Tech Stack  -->
 <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://shields.io/
   -->
+  <!--
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp; 
@@ -45,6 +45,7 @@ You can use the website to generate badges: https://shields.io/
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)&nbsp;
 
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -52,7 +53,7 @@ You can use the website to generate badges: https://shields.io/
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrabhavD&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </a>
 </p> 
-
+-->
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great

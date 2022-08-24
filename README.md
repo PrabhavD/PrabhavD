@@ -69,7 +69,7 @@ You can use the website to generate badges: https://shields.io/
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-<p align="left">
+<p left-margin="10" align="left">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/PrabhavD/PrabhavD.svg" />
 </p>
 

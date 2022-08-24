@@ -45,13 +45,13 @@ You can use the website to generate badges: https://shields.io/
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)&nbsp;
 
-<!--### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/PrabhavD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrabhavD&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </a>
-</p>  -->
+</p> 
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me

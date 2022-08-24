@@ -3,7 +3,7 @@
 -->
 ### 👋 &nbsp;Hey there! I'm Prabhav.
 
-I am Computer Engineering student at the University of Waterloo for Computer Engineering interested in the field of software currently seeking Summer 2023 internship opportunities. Feel free to reach out!
+I am Computer Engineering student at the University of Waterloo for Computer Engineering interested in the field of software and AI. seeking Summer 2023 internship opportunities. Feel free to reach out!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -22,9 +22,20 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
 - 🌱 I’m currently learning Go, Docker and MySQL.
+- 👔 Incoming Software Engineering Intern @ Morgan Stanley
 - 💬 Ask me about anything. If I can't help, we can both learn something new!
-- 👔 Work Status: Seeking Summer 2023 Internships
 
+
+
+<!-- Talking about you -->
+### 👨🏻‍💻 &nbsp;About Me
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
+- Software Engineering Intern @ PlaceHolder Inc.
+- Software Developer Intern @ Year Zero Studios
 <!-- ### 🛠 &nbsp;Tech Stack  -->
 <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://shields.io/

@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
 - 👔 Software Engineering Intern @ Morgan Stanley
-- 🌱 I’m currently learning OOP/OOD principles and Go
+- 🌱 I’m currently learning OOP/OOD principles, Go and Gatsby
 - 💬 Ask me about anything. If I can't help, we can both learn something new!
 
 

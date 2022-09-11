@@ -34,7 +34,7 @@ You can use the website to generate badges: https://shields.io/
 - Software Engineering Intern @ PlaceHolder Inc.
 - Software Developer Intern @ Year Zero Studios
 
-![Prabhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhavd&count_private=true)
+<!-- ![Prabhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhavd&count_private=true) -->
 <!-- ### 🛠 &nbsp;Tech Stack  -->
 <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://shields.io/

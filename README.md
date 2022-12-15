@@ -3,7 +3,7 @@
 -->
 ### 👋 &nbsp;Hey there! I'm Prabhav.
 
-I am Computer Engineering student at the University of Waterloo (Class of 2025) interested in the software and AI. I am currently on the lookout for Summer 2023 internship opportunities. Feel free to reach out!
+I am 3rd Year Computer Engineering student at the University of Waterloo interested in the software and AI. I am currently on the lookout for Summer 2023 internship opportunities. Feel free to reach out!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/

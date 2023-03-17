@@ -3,7 +3,7 @@
 -->
 ### 👋 &nbsp;Hey there! I'm Prabhav.
 
-I am 3rd Year Computer Engineering student at the University of Waterloo interested in the software and AI. I am currently on the lookout for Summer 2023 internship opportunities. Feel free to reach out!
+I am 3rd Year Computer Engineering student at the University of Waterloo interested in the software and AI. I am currently on the lookout for Winter 2024 internship opportunities. Feel free to reach out!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
 - 👔 Software Engineering Intern @ Morgan Stanley
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning OS concepts
 - 💬 Ask me about anything. If I can't help, we can both learn something new!
 
 

@@ -31,7 +31,7 @@ You can use the website to generate badges: https://shields.io/
 ### 🛠 &nbsp;Past Experiences
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
-- Software Engineering Intern @ Morgan Stanley (Calgary)
+- Software Engineering Intern @ Morgan Stanley NYC
 - Software Engineering Intern @ PlaceHolder Inc.
 - Software Developer Intern @ Year Zero Studios
 

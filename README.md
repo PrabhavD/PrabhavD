@@ -21,8 +21,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
-- 👔 Summer Technology Analyst Intern @ Morgan Stanley (NYC)
-- 🌱 I’m currently learning .NET Framework
+- 👔 Looking for Winter 2024 software internship opportunities!
+- 🌱 I’m currently learning MySQL
 - 💬 Shoot me a connection with a message and I will gladly be open to discussing anything!
 
 
@@ -31,7 +31,8 @@ You can use the website to generate badges: https://shields.io/
 ### 🛠 &nbsp;Past Experiences
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
-- Software Engineering Intern @ Morgan Stanley NYC
+- Technology Analyst Intern @ Morgan Stanley - New York
+- Software Engineering Intern @ Morgan Stanley - Canada
 - Software Engineering Intern @ PlaceHolder Inc.
 - Software Developer Intern @ Year Zero Studios
 

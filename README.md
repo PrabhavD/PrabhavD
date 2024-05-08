@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
 - 👔 Looking for Fall 2024 software internship opportunities!
-- 🌱 I’m currently learning quantum computing and Rust
+- 🌱 I’m currently learning quantum information
 - 💬 Shoot me a connection with a message and I will gladly be open to discussing anything!
 
 

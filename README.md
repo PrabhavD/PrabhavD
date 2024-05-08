@@ -3,7 +3,7 @@
 -->
 ### 👋 &nbsp;Hey there! I'm Prabhav.
 
-I am 3rd Year Computer Engineering student at the University of Waterloo interested in the software and AI. I am currently on the lookout for Winter 2024 internship opportunities. Feel free to reach out!
+I am a senior Computer Engineering student at the University of Waterloo specializing in software. I've worked across zero-to-one-stage startups, mid-sized startups and established companies. Used completely different tech stacks across all coops and would love to learn any new ones. I am currently on the lookout for Fall 2024 internship opportunities. Feel free to reach out!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -21,8 +21,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
-- 👔 Looking for Winter 2024 software internship opportunities!
-- 🌱 I’m currently learning MySQL
+- 👔 Looking for Fall 2024 software internship opportunities!
+- 🌱 I’m currently learning quantum computing and Rust
 - 💬 Shoot me a connection with a message and I will gladly be open to discussing anything!
 
 
@@ -31,10 +31,11 @@ You can use the website to generate badges: https://shields.io/
 ### 🛠 &nbsp;Past Experiences
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
-- Technology Analyst Intern @ Morgan Stanley - New York
-- Software Engineering Intern @ Morgan Stanley - Canada
-- Software Engineering Intern @ PlaceHolder Inc.
-- Software Developer Intern @ Year Zero Studios
+- Quantum Intern @ Xanadu.ai - Toronto
+- SWE Intern @ Morgan Stanley - New York
+- SWE Intern @ Morgan Stanley - Canada
+- SWE Intern @ PlaceHolder Inc.
+- SWE Intern @ Year Zero Studios
 
 <!-- ![Prabhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhavd&count_private=true) -->
 <!-- ### 🛠 &nbsp;Tech Stack  -->

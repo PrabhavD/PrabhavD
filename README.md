@@ -3,7 +3,7 @@
 -->
 ### 👋 &nbsp;Hey there! I'm Prabhav.
 
-I am a senior Computer Engineering student at the University of Waterloo specializing in software and quantum computing. I've worked across zero-to-one-stage startups, mid-sized startups and established companies. Used completely different tech stacks across all coops and would love to learn any new ones. I am currently on the lookout for Fall 2024 internship opportunities. Feel free to reach out!
+I am a senior Computer Engineering student at the University of Waterloo specializing in software and quantum computing. I've worked across zero-to-one-stage startups, mid-sized startups, unicorns and established companies. Used completely different tech stacks across all coops and would love to learn any new ones. I am currently on the lookout for Fall 2024 internship opportunities. Feel free to reach out!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/

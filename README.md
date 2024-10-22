@@ -3,7 +3,7 @@
 -->
 ### 👋 &nbsp;Hey there! I'm Prabhav.
 
-I am a senior Computer Engineering student at the University of Waterloo specializing in software and quantum computing. I've worked across zero-to-one-stage startups, mid-sized startups, unicorns and established companies. Used completely different tech stacks across all coops and would love to learn any new ones. I am currently on the lookout for Fall 2024 internship opportunities. Feel free to reach out!
+I am a senior Computer Engineering student at the University of Waterloo specializing in software and quantum computing. I've worked across zero-to-one-stage startups, mid-sized startups, unicorns and established companies. Used completely different tech stacks across all coops and would love to learn any new ones. I am currently seeking new graduate roles starting in 2025. Feel free to reach out!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -21,8 +21,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
-- 👔 Looking for Fall 2024 software internship opportunities!
-- 🌱 I’m currently learning swarming algorithms!
+- 👔 Looking for 2025 new graduate software internship opportunities!
+- 🌱 I’m currently learning FGPA development!
 - 💬 Shoot me a connection with a message and I will gladly be open to discussing anything!
 
 
@@ -31,6 +31,7 @@ You can use the website to generate badges: https://shields.io/
 ### 🛠 &nbsp;Past Experiences
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
+- Visiting Student Researcher @ Princeton University - New Jersey
 - Quantum Intern @ Xanadu.ai - Toronto
 - SWE Intern @ Morgan Stanley - New York
 - SWE Intern @ Morgan Stanley - Canada

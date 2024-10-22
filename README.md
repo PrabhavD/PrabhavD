@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
-- 👔 Looking for 2025 new graduate software internship opportunities!
+- 👔 Looking for 2025 full-time new graduate opportunities!
 - 🌱 I’m currently learning FGPA development!
 - 💬 Shoot me a connection with a message and I will gladly be open to discussing anything!
 

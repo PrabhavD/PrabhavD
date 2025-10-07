@@ -3,7 +3,7 @@
 -->
 ### 👋 &nbsp;Hey there! I'm Prabhav.
 
-I am a senior Computer Engineering student at the University of Waterloo specializing in software and quantum computing. I've worked across zero-to-one-stage startups, mid-sized startups, unicorns and established companies. Used completely different tech stacks across all coops and would love to learn any new ones. I am currently seeking new graduate roles starting in 2025. Feel free to reach out!
+I am a Masters student at the University of Oxford studying Quantum Technologies and a member of Brasenose College. I recently graduated from the University of Waterloo where I studied Computer Engineering. I worked at zero-to-one-stage startups, mid-sized startups, unicorns, established companies as well as research labs during my time at Waterloo. I am currently seeking new graduate roles starting in 2026 both in academia and industry. Feel free to reach out!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -21,8 +21,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
-- 👔 Looking for 2025 full-time new graduate opportunities!
-- 🌱 I’m currently learning FGPA development!
+- 👔 Looking for 2026 full-time new graduate opportunities!
+- 🌱 I’m currently learning experiemental quantum engineering!
 - 💬 Shoot me a connection with a message and I will gladly be open to discussing anything!
 
 
@@ -31,12 +31,12 @@ You can use the website to generate badges: https://shields.io/
 ### 🛠 &nbsp;Past Experiences
 
 <!-- - 👨🏽‍💻 I’m currently working on a [Stock Predictor](https://github.com/PrabhavD/Stock_Predictor); -->
-- Visiting Student Researcher @ Princeton University - New Jersey
-- Quantum Intern @ Xanadu.ai - Toronto
-- SWE Intern @ Morgan Stanley - New York
-- SWE Intern @ Morgan Stanley - Canada
-- SWE Intern @ PlaceHolder Inc.
-- SWE Intern @ Year Zero Studios
+- Visiting Student Researcher @ Princeton University - New Jersey, USA
+- Quantum Intern @ Xanadu.ai - Toronto, Canada
+- SWE Intern @ Morgan Stanley - New York, USA
+- SWE Intern @ Morgan Stanley - Calgary, Canada
+- SWE Intern @ PlaceHolder Inc. - Calgary, Canada
+- SWE Intern @ Year Zero Studios - Toronto, Canada
 
 <!-- ![Prabhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhavd&count_private=true) -->
 <!-- ### 🛠 &nbsp;Tech Stack  -->
